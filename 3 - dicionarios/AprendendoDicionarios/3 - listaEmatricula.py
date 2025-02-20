@@ -4,6 +4,5 @@ matricula = {
     'DiaDeCadastro': 25,
     'MêsDeCadastro': 10,
     'Turma': "2E"}
-
-print (matricula['Turma'])
+print(matricula['Turma'])
 #utlizando desse jeito, é possível averiguar os dados que estão no dicionarios diretamente de uma chave.
